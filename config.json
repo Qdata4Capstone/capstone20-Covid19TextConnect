@@ -1,0 +1,7 @@
+{
+    "DATA_DIR" : "data",
+    "SAVE_DIR" : "saved", 
+    "ES_HOST" : "localhost",
+    "ES_INDEX" : "covid-qa",
+    "MM_PATH" : "../../public_mm/bin/metamap18"
+}

@@ -1,0 +1,7 @@
+Flask
+gensim
+pandas
+spacy
+scispacy
+kaggle
+elasticsearch_dsl>=7.0.0

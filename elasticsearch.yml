@@ -1,0 +1,7 @@
+cluster.name: covid-qa
+node.name: corpus-1
+path:
+    data:
+        - /p/qdata/jy2ma/covid/QA4Patients/COVID-QA/data/elasticsearch
+    repo:
+        - /p/qdata/jy2ma/covid/QA4Patients/COVID-QA/saved/elasticsearch
